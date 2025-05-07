@@ -18,9 +18,9 @@ Software Engineering lecturer and researcher at Universitas Gadjah Mada (UGM) Vo
 
 ## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Education
 
-- **Master of Computer Science (M.Cs.)** | Indonesia
+- **Master of Computer Science (M.Cs.)** | Universitas Gadjah Mada 🇮🇩
 - **Master of Information Management (M.IM.)** | National Taiwan University of Science and Technology 🇹🇼
-- **Bachelor of Computer Science (S.Kom.)** | Indonesia
+- **Bachelor of Computer Science (S.Kom.)** | Universitas Jenderal Soedirman 🇮🇩
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Technical Skills
 
