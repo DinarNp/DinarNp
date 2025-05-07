@@ -22,6 +22,16 @@ Software Engineering lecturer and researcher at Universitas Gadjah Mada (UGM) Vo
 - **Master of Information Management (M.IM.)** | National Taiwan University of Science and Technology 🇹🇼
 - **Bachelor of Computer Science (S.Kom.)** | Universitas Jenderal Soedirman 🇮🇩
 
+## <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="30"> Certifications & Licenses
+
+- **Instructor** | Huawei
+- **Certified Artificial Intelligence Practitioner (CAIP)** | CertNexus
+- **Certified Data Engineer** | Badan Nasional Sertifikasi Profesi (BNSP)
+- **Certified Database Programmer** | Badan Nasional Sertifikasi Profesi (BNSP)
+- **Certified System Analyst** | Badan Nasional Sertifikasi Profesi (BNSP)
+- **Assessor of Competency** | Badan Nasional Sertifikasi Profesi (BNSP)
+- **Certified Data Science Practitioner** | CertNexus
+
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Technical Skills
 
 ### Software Engineering
