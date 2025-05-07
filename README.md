@@ -3,25 +3,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=100&lines=Lecturer+at+Vocational+College+UGM;Software+Engineering+Specialist;Artificial+Intelligence+Researcher;BNSP+Certified+Assessor" />
 </div>
 
-## 🌟 About Me
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 Software Engineering lecturer and researcher at Universitas Gadjah Mada (UGM) Vocational College with expertise in Artificial Intelligence and Software Engineering. Currently heading the Software Engineering Laboratory while preparing for doctoral studies in AI healthcare applications. My research interests focus on applying advanced software engineering methodologies and artificial intelligence to healthcare challenges, with the goal of developing innovative medical technology solutions.
 
 > "Technology should adapt to human needs, not the other way around."
 
-## 🔬 Research Interests
+## <img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="30"> Research Interests
 
 - Artificial Intelligence
 - Software Engineering Methodologies
 - Machine Learning Applications
 
-## 🎓 Education
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Education
 
 - **Master of Computer Science (M.Cs.)** | Indonesia
 - **Master of Information Management (M.IM.)** | National Taiwan University of Science and Technology 🇹🇼
 - **Bachelor of Computer Science (S.Kom.)** | Indonesia
 
-## 🔧 Technical Skills
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Technical Skills
 
 ### Software Engineering
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -72,12 +73,6 @@ Software Engineering lecturer and researcher at Universitas Gadjah Mada (UGM) Vo
 ![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinarnoe&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinarnoe&layout=compact&langs_count=8&theme=nord"/>
-</div>
 
 ## 🌍 Languages
 
